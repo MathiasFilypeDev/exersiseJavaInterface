@@ -1,4 +1,4 @@
-#  Exersise about Java Interface
+#  Exercise about Java Interface
 
 [Linkedin Profile - Mathias Filype](www.linkedin.com/in/mathias-filype-366195246)
 <br>
@@ -7,7 +7,7 @@ Student at [DIO](https://www.dio.me/) and [Faculdade Focus](https://faculdadefoc
 ##  General vision👨‍💻
 | Description exersise | Topics covered |
 |----------------------|----------------|
-|Construction of a aplication for calc of area of geometric shape (Square, Circle and Rectangle) | Interface (creation of implematation in all the records) / Records (creation of characters for each geometric shape)|
+| Construction of a aplication for calc of area of geometric shape (Square, Circle and Rectangle) | Interface (creation of implematation in all the records) / Records (creation of characters for each geometric shape)|
 ---
 ## [Interface](https://www.datacamp.com/pt/doc/java/interface)
 Create the interface for implementation the method getArea in the elements (Square, Circle and Rectangle)
@@ -23,17 +23,17 @@ Create the interface for implementation the method getArea in the elements (Squa
 <br>
 ``
 3 - Implemening in principal class (main) =>
-Creating of conditionals of implementing of records (squarem circle, rectangle) and interact with user.
-Creating of methods for work with especific data of each record.
+Creating of conditionals of implementing of records (squarem circle, rectangle) and interact with user
+Creating of methods for work with especific data of each record
 ``
 
 ## Diagram for speficy the programming logic
 ``Interface -> Record``
 ```mermaid
 graph TD;
-  Interface/geometricForm-->Record/Square;
-  Interface/geometricForm-->Record/Circle;
-  Interface/geometricForm-->Record/Rectangle;
+  Interface/geometricForm-->Record/Square
+  Interface/geometricForm-->Record/Circle
+  Interface/geometricForm-->Record/Rectangl
 ```
 > [!NOTE]
 > Using and learning ***lambda concepts***. <br>
