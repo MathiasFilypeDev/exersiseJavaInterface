@@ -35,4 +35,12 @@ graph TD;
   Interface/geometricForm-->Record/Circle;
   Interface/geometricForm-->Record/Rectangle;
 ```
-
+> [!NOTE]
+> Using and learning ***lambda concepts***. <br>
+---
+> [!TIP]
+> Using a new sintaxe for creating of class for use and work data. <br>
+---
+> [!IMPORTANT]
+> The file ***Anotation.java*** are some anotation  about the content learning.
+---
